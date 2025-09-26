@@ -22,13 +22,6 @@ Our mission is to create an inclusive digital future where information and commu
 
 ---
 
-## 📊 Statistics
- 
-![Contributions](https://streak-stats.demolab.com?user=OpenDeafTech&theme=tokyonight&hide_border=true)  
-![Monthly Commits](https://img.shields.io/github/commit-activity/m/OpenDeafTech/core?label=Monthly%20Commits)  
-![Open Issues](https://img.shields.io/github/issues/OpenDeafTech/core)  
-![Open PRs](https://img.shields.io/github/issues-pr/OpenDeafTech/core)  
-![Contributors](https://img.shields.io/github/contributors/OpenDeafTech/core)  
 
 ---
 
